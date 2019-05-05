@@ -9,8 +9,9 @@
 
 欢迎使用PHP SDK for Hyperledger项目。此SDK的主要目标是促进客户端执行基本的链代码相关操作，例如：创建通道，安装和访问链代码等。
 
-如果你是java程序员你可以看这个：[java fabric](http://www.hubwiz.com/course/5c9b89f54898e59b7b63430a)
-Nodejs程序员可以看这个:[nodejs fabric](http://www.hubwiz.com/course/5c95f916a8d86b7067ffebb8)
+>- 如果你是java程序员你可以看这个：[java fabric](http://www.hubwiz.com/course/5c9b89f54898e59b7b63430a)
+
+>- Nodejs程序员可以看这个：[nodejs fabric](http://www.hubwiz.com/course/5c95f916a8d86b7067ffebb8)
 
 注意，fabric-sdk-php是一个独立的客户端接口，用于通过运行的区块链网络访问网络信息和分类帐数据，它不能用作应用程序定义的通道数据的持久性介质。
 
