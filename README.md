@@ -159,7 +159,7 @@ composer protoc
 
 ## 特约
 
-我们欢迎您对Github上的美国运通开源社区感兴趣。任何开源的贡献者由American Express Open Source Community的项目必须接受并签署一份表示同意的协议以下条款。本协议授予美国运通和软件接收者的权利除外由American Express分发，您保留您的贡献中的所有权利，所有权和利益（如果有）。请[填写协议](https://cla-assistant.io/americanexpress/hyperledger-fabric-sdk-php)。
+我们欢迎您对Github上的American Express开源社区感兴趣。任何开源的贡献者由American Express Open Source Community的项目必须接受并签署一份表示同意的协议以下条款。本协议授予American Express和软件接收者的权利除外由American Express分发，您保留您的贡献中的所有权利，所有权和利益（如果有）。请[填写协议](https://cla-assistant.io/americanexpress/hyperledger-fabric-sdk-php)。
 
 请随意打开pull请求，并查看`CONTRIBUTING.md`以了解提交格式详细信息。
 
