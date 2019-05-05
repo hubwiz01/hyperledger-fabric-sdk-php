@@ -1,23 +1,23 @@
 {
-  "name": "americanexpress/hyperledger-fabric-sdk-php",
-  "description": "Hyperledger Fabric client SDK in PHP",
+  "name": "hubwiz01/hyperledger-fabric-sdk-php-cn",
+  "description": "Hyperledger Fabric 开发 PHP 应用程序 SDK",
   "type": "library",
-  "homepage": "http://americanexpress.io/",
-  "keywords": ["hyperledger", "fabric", "sdk", "php", "grpc", "protobuf"],
+  "homepage": "https://github.com/hubwiz01/hyperledger-fabric-sdk-php-cn",
+  "keywords": ["hyperledger", "fabric", "sdk", "php", "grpc", "protobuf", "开发包" , "开发"],
   "license": "Apache-2.0",
   "config": {
     "sort-packages": true
   },
   "autoload": {
     "psr-4": {
-      "AmericanExpress\\HyperledgerFabricClient\\": "src",
+      "hubwiz01\\HyperledgerFabricClient\\": "src",
       "GPBMetadata\\": "protobuf/dist/GPBMetadata",
       "Hyperledger\\": "protobuf/dist/Hyperledger"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "AmericanExpressTest\\HyperledgerFabricClient\\TestAsset\\": "test/unit/TestAsset"
+      "hubwiz01\\HyperledgerFabricClient\\TestAsset\\": "test/unit/TestAsset"
     }
   },
   "require": {
